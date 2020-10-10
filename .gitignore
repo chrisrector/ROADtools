@@ -8,3 +8,4 @@ metadatastore/
 .roadtools_auth
 Pipfile
 __pycache__
+.vscode/
